@@ -31,10 +31,10 @@
 
 [Sesion 01](app/src/main/java/com/example/practicas/practica01.kt)&nbsp; Practica01
 
-[Sesion 02](app/src/main/java/com/example/practicas/practica2.kt)&nbs; Practica02
+[Sesion 02](app/src/main/java/com/example/practicas/practica2.kt)&nbsp; Practica02
 
-[Sesion 03](app/src/main/java/com/example/practicas/practica3.kt)&nbs; Practica03
+[Sesion 03](app/src/main/java/com/example/practicas/practica3.kt)&nbsp; Practica03
 
-[Sesion 04](app/src/main/java/com/example/practicas/practica4.kt)&nbs; Practica04
+[Sesion 04](app/src/main/java/com/example/practicas/practica4.kt)&nbsp; Practica04
 
 
