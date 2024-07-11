@@ -29,4 +29,4 @@
 
 ** Enlaces
 
-[Sesion 01](ProyectoFinalJava/app)&nbsp;Text
+[Sesion 01](app)&nbsp;Text
