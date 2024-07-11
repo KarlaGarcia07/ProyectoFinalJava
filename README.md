@@ -3,7 +3,7 @@
 ## Sesiones
 
 1. Sesión 1: Fundamentos Android
-En esta sesión vimos conceptos fundamentales de Android
+## En esta sesión vimos conceptos fundamentales de Android
 2. Sesión 2: Pilares del pensamiento logico computacional
 3. Sesión 3: Instlacion y Entornos de desarrollo
 4. Sesión 4: Control de versiones
